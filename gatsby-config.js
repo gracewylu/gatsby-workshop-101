@@ -4,6 +4,7 @@ module.exports = {
         author: `Grace Lu`,
         description: `Grace's personal site for Gatsby 101 at CodeLand`,
         siteUrl: `https://gl-workshop-101-site.netlify.app/`,
+        alternateSite: `https://github.com/gracewylu`,
         social: [
             {
                 name: `LinkedIn`,
